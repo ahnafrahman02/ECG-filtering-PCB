@@ -2,8 +2,6 @@
 
 A compact, manufacturing-ready 4-layer PCB designed in **KiCad** for a wearable smart glasses ECG monitoring system. The board integrates an **ESP32-S3-MINI-1** wireless MCU with a **Texas Instruments ADS1292** analog front-end inside a strict wearable form factor.
 
-![3D Render of the PCB](PCB Layout.png)
-
 ## Key Specifications
 | Parameter | Value |
 | :--- | :--- |
